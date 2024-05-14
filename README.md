@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![svg](profile-3d-contrib/profile-customize.svg)
+![svg](profile-3d-contrib/profile-green.svg)
 <!--
 **badumbatish/badumbatish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
