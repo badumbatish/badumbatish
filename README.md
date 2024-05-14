@@ -1,6 +1,10 @@
 ### Hi there 👋
 
-![svg](profile-3d-contrib/profile-green.svg)
+Welcome to my GitHub profile.
+
+Visit my [website](badumbatish.github.io) 😈, or not 👿
+
+Enjoy your stay.
 <!--
 **badumbatish/badumbatish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
