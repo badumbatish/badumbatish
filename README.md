@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile.
 
-Visit my [website](https://badumbatish.github.io/) 😈, or not 👿
+Visit my [website](https://jjasmine.dev) 😈, or not 👿
 
 Enjoy your stay.
 <!--
